@@ -4,6 +4,7 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+
         var dog = 8.0;
         dog = dog + 4;
         dog = dog - 3.5;
