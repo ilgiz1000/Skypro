@@ -38,5 +38,6 @@ public class Main {
         var number_2 = number + 94;
         var newGeneral = work * number_2;
         System.out.println ("Если в компании работает " + number_2 + " человек, то всего " + newGeneral + " часов работы может быть поделено между сотрудниками");
+
         }
     }
